@@ -1,0 +1,15 @@
+{
+  "name": "FeigeFiatShamirServer",
+  "version": "0.0.0",
+  "description": "FeigeFiatShamirServer",
+  "main": "server.js",
+  "author": {
+    "name": "grego",
+    "email": ""
+  },
+  "dependencies": {
+    "big-integer": "^1.6.10",
+    "colors": "^1.1.2",
+    "winston": "^2.1.1"
+  }
+}
